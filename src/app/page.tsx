@@ -271,8 +271,8 @@ export default function Home() {
 
       <footer className="border-t border-gray-100 py-6 bg-gray-50">
         <div className="px-4 text-center text-gray-600">
-          <a href="https://x.com/kamalbuilds/" target="_blank" rel="noreferrer" className="hover:text-orange-600 transition-colors">
-            <p> © By Kamal</p>
+          <a href="https://www.linkedin.com/in/harsh-bestmerndev/" target="_blank" rel="noreferrer" className="hover:text-orange-600 transition-colors">
+            <p> © By Harsh</p>
           </a>
         </div>
       </footer>
